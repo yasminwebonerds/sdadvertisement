@@ -14,11 +14,7 @@ class Base{
 		{
 			$this->conn = new PDO("mysql:host=localhost;dbname=sdadvertisements_db",'root','password');
 		}
-		else
-		{
-
-			$this->conn = new PDO("mysql:host=localhost;dbname=sdadvert_sd_datacenter_db",'sdadvert_sduser','Anwar!@#');			
-		}
+		
 
 	}
 
