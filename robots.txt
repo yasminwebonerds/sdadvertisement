@@ -1,0 +1,3 @@
+user-agent: Googlebot
+Disallow: /backend/
+sitemap: http://www.sdavertisements.com/sitemap.xml
